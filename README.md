@@ -6,7 +6,7 @@ effects of certain interventions using methods commonly employed in causal infer
 
 ## Repository Structure
 ## Notebooks
-### 1. Group 6_Exploratory Data Analysis
+### 1. Group 6_Exploratory Data Analysis.ipynb
 Description: This notebook includes the exploratory data analysis for the methods listed below. Each method provides important aspects
 of the data we are dealing with which is necessary to understand any underlying biases and confounders.
 Methods Covered:
