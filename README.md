@@ -6,14 +6,14 @@ effects of certain interventions using methods commonly employed in causal infer
 
 ## Repository Structure
 ## Notebooks
-1. Group 6_Exploratory Data Analysis
+### 1. Group 6_Exploratory Data Analysis
 Description: This notebook includes the exploratory data analysis for the methods listed below. Each method provides important aspects
 of the data we are dealing with which is necessary to understand any underlying biases and confounders.
 Methods Covered:
 - Data Inspection and Covariate Balance Diagnostic
 - Subgroup Analysis for Treatment Effect Heterogeneity
 
-3. Group 6_Model Analysis 1.ipynb
+### 2. Group 6_Model Analysis 1.ipynb
 Description: This notebook includes the model building and evaluation for the methods listed below. Each model is constructed and assessed
 to determine its effectiveness in estimating causal impacts.
 Methods Covered:
@@ -24,12 +24,12 @@ Methods Covered:
 - Simple DiD method for year 2 & 3 comparison
 - DiD with Interaction Terms and IPTW
 
-5. Group 6_Model Analysis 2_1.ipynb
+### 3. Group 6_Model Analysis 2_1.ipynb
 Description: This notebook focuses on the model building for the DiD with IPW method, detailing the setup and implementation of the model.
 Methods Covered:
 - DiD with IPW (Model Building)
 
-6. Group 6_Model Analysis 2_2.ipynb
+### 4. Group 6_Model Analysis 2_2.ipynb
 Description: Complements the previous notebook by providing a detailed evaluation of the DiD with IPW model constructed in 'Group 6_Model Analysis 
 2_1.ipynb'. This includes assessing the model's performance and analyzing residuals.
 Methods Covered:
